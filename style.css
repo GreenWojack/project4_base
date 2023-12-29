@@ -20,6 +20,14 @@ a,
 button {
   outline: 0 !important;
 }
+.image-resize-mode {
+  width: 100px;
+  height: 100px;
+}
+.img-responsive {
+  width: 275px;
+  height: 275px;
+}
 .scrollToTop,
 a,
 button {
